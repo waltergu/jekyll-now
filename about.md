@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Ph.D candidate on theoretical physics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Many-body computation methods in condensed matter theory, including
+  * Exact diagonalization,
+  * Variational cluster approach,
+  * Density matrix renormalization group,
+  * etc.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[waltergu1989@gmail.com](mailto:waltergu1989@gmail.com)
